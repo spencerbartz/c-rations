@@ -1,4 +1,4 @@
-# csocketutils
+# c-rations
 Socket interface written in C to make networking and programming in C less painful.
 
 # Usage (To work on the socket module only)
